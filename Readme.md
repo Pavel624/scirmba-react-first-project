@@ -1,6 +1,5 @@
-This is the first project from 
-<a href="https://scrimba.com/learn/learnreact">Scrimba</a> free React Course
-<h3>Launch  on local machine</h3>
+# This is the first project from [Scrimba](https://scrimba.com/learn/learnreact) free React Course
+Launch  on local machine
 ```
 npm run
 ```
