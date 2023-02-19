@@ -1,0 +1,68 @@
+.info {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+
+.info--text {
+    text-align: center;
+}
+
+.info--image {
+    height: 300px;
+    width: 300px;
+    background-image: url("../img/default-user.png");
+    background-size: cover;
+    border-radius: 15px;
+}
+
+.info--text > p {
+    color: #F5F5F5;
+    margin-top: 10px;
+}
+
+.info--text > h4 {
+    color: #F3BF99;
+    margin-bottom: 0;
+}
+
+.info--text > h1 {
+    color: white;
+}
+
+.info--buttons {
+    width: 270px;
+    display: flex;
+    justify-content: space-between;
+    margin-top: 5px;
+}
+
+.info--button {
+    height: 37px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 9px 13px 9px 11px;
+    gap: 8px;
+
+    font-size: large;
+    border-radius: 6px;
+
+    cursor: pointer;
+}
+
+.info--buttons > a {
+    text-decoration: none;
+}
+
+.info--button-blue {
+    background-color: #5093E2;
+    color: white;
+}
+
+.info--button--white {
+    background-color: white;
+    color: black;
+}

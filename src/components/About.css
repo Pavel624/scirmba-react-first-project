@@ -1,0 +1,12 @@
+.about {
+    color: white;
+    margin-left: 5%;
+}
+
+.about > h2 {
+    margin-bottom: 10px;
+}
+
+.about > p {
+    margin-top: 15px;
+}
